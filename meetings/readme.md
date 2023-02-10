@@ -20,8 +20,6 @@ Please feel free to propose any of your topics, thoughts, or areas you feel are 
 
 Below is a list of all prior completed meetings and related resources.
 
-## Documentation Special Interest Group
-
 | No   | Date       | Time | Agenda  | Media | Notes | Resources |
 | ---- | ---------- | ---- | ------- | ----- | ----- | ---- |
 | 0001 | 2023-02-10 | 1700 UTC | [Link](https://github.com/Open-MV/fig-users/discussions/2) | [Recording](https://github.com/Open-MV/fig-users/tree/main/meetings/media/users-20230210.m4a) | N/A | N/A |
