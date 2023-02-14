@@ -2,6 +2,8 @@
 
 This repository holds materials for the Open Metaverse Foundation Interest Group for Users (FIG Users).
 
+## View [weekly meetings](./meetings/readme.md#Previous-Meetings) with the agenda, notes and audio recordings.
+
 ## Description of FIG Users
 
 The Users Foundational Interest Group (FIG) is focused on fostering open source and standards to support user-focused objects. In addition to enabling elements related to user-focused objects, this work also focuses on the relationship of user-focused objects with other objects and systems—specifically, how these user-focused objects process other data objects, and how other data objects consume user-focused objects.
